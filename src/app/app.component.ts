@@ -10,4 +10,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'AngularBasics';
+  message = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis nam temporibus enim harum vel, distinctio a corrupti error, quaerat blanditiis nihil iure libero eveniet, similique voluptatibus dicta nesciunt quibusdam tempora!";
 }
